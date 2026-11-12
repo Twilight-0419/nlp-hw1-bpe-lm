@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+
+data/
+checkpoints/
+hw1_upload.tar.gz
+code.zip
+*.log
+
+tests/fixtures/
+tests/_snapshots/
+
+叶定铨_2500011816_Report.txt
+叶定铨_2500011816_Report.pdf
