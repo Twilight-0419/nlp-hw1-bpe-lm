@@ -99,6 +99,14 @@ uv run python train_lm.py \
 
 LSTM 训练把 `--model` 改成 `lstm`，并去掉 `--num-heads`、`--d-ff` 即可。
 
+## 作业来源
+
+本项目的作业要求、测试用例与初始代码框架来自：
+
+- [WangXiangyv/NLPDL-2026Fall](https://github.com/WangXiangyv/NLPDL-2026Fall)
+
+感谢课程提供的作业设计与测试用例。原始作业说明见 [ASSIGNMENT.md](ASSIGNMENT.md)。
+
 ## 说明
 
 - `data/` 和 `checkpoints/` 未上传，需按原始作业说明自行下载 TinyStories 并训练
